@@ -1,0 +1,32 @@
+2026-09-11 16:31:15,366 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:31:15,366 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:31:15,366 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:31:15,366 | ERROR | __main__ | logging_practice.py:31 | Something failed
+2026-09-11 16:32:10,334 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:32:10,334 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:32:10,334 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:32:10,334 | ERROR | __main__ | logging_practice.py:31 | Something failed
+2026-09-11 16:32:18,463 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:32:18,465 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:32:18,465 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:32:18,465 | ERROR | __main__ | logging_practice.py:31 | Something failed
+2026-09-11 16:32:19,164 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:32:19,164 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:32:19,164 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:32:19,164 | ERROR | __main__ | logging_practice.py:31 | Something failed
+2026-09-11 16:32:19,449 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:32:19,449 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:32:19,449 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:32:19,449 | ERROR | __main__ | logging_practice.py:31 | Something failed
+2026-09-11 16:32:19,698 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:32:19,698 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:32:19,698 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:32:19,698 | ERROR | __main__ | logging_practice.py:31 | Something failed
+2026-09-11 16:32:19,935 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:32:19,935 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:32:19,935 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:32:19,935 | ERROR | __main__ | logging_practice.py:31 | Something failed
+2026-09-11 16:32:20,184 | DEBUG | __main__ | logging_practice.py:28 | Debug message
+2026-09-11 16:32:20,184 | INFO | __main__ | logging_practice.py:29 | Application started
+2026-09-11 16:32:20,185 | WARNING | __main__ | logging_practice.py:30 | Something unusual happened
+2026-09-11 16:32:20,185 | ERROR | __main__ | logging_practice.py:31 | Something failed
