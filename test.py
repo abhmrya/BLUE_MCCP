@@ -24,3 +24,4 @@ b = 936
 print(a is b)
 
 print("test")
+print("slash check")
