@@ -25,3 +25,5 @@ print(a is b)
 
 print("test")
 print("slash check")
+print("same line change")
+print("git stash")
