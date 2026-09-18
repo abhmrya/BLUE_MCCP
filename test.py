@@ -22,3 +22,5 @@ a = 936
 b = 936
 
 print(a is b)
+
+print("test")
