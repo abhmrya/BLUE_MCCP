@@ -1,0 +1,151 @@
+ID,FirstName,LastName,Email,Company,Phone,Notes
+1,Robert,Davis,-,Globex Inc,+1-509-190-6761,Contract expires 2025-12
+2,Priya,Nakamura,priya.nakamura@company.com,Cyberdyne Systems,+1-991-746-1664,VIP customer
+3,Linda,Ivanov,linda.ivanov@example.org,Umbrella Ltd,NULL,N/A
+4,Fatima,Davis,fatima.davis@yahoo.com,Stark Industries,+1-208-209-7720,NULL
+5,Maria,Davis,maria.davis@yahoo.com,Umbrella Ltd,+1-365-550-4430,
+6,Fatima,Müller,fatima.müller@gmail.com,Globex Inc,-,Do not call
+7,Wei,Martinez,None,Soylent Corp,+1-270-593-5295,Prefers email contact
+8,David,Rodriguez,david.rodriguez@company.com,Initech,+1-258-343-6821,Renewal pending
+9,Yuki,Silva,yuki.silva@gmail.com,-,+1-700-435-8680,Attended webinar
+10,Carlos,Martinez,carlos.martinez@yahoo.com,Umbrella Ltd,NULL,Renewal pending
+11,Raj,Nguyen,raj.nguyen@gmail.com,Acme Corp,+1-809-616-5167,
+12,Fatima,Brown,fatima.brown@outlook.com,Umbrella Ltd,+1-228-828-4625,N/A
+13,Olga,Lee,olga.lee@yahoo.com,Acme Corp,+1-479-195-7983,N/A
+14,Carlos,Kim,NULL,Acme Corp,None,Do not call
+15,Yuki,Johnson,yuki.johnson@example.org,None,+1-936-122-9279,
+16,Yuki,Santos,yuki.santos@gmail.com,Tyrell Corp,+1-932-329-5266,N/A
+17,Maria,Chen,maria.chen@example.org,Tyrell Corp,+1-606-585-1368,
+18,Ahmed,Lee,None,-,+1-439-276-2516,N/A
+19,Raj,Martinez,-,Tyrell Corp,NaN,NULL
+20,Fatima,Brown,,Wonka Industries,+1-306-584-5965,Do not call
+21,Michael,Lee,michael.lee@gmail.com,Initech,+1-694-851-6701,
+22,David,Müller,david.müller@outlook.com,Globex Inc,+1-779-910-6327,Contract expires 2025-12
+23,Elizabeth,Martinez,elizabeth.martinez@outlook.com,Globex Inc,+1-989-336-2871,Prefers email contact
+24,John,Kim,NaN,Initech,+1-310-864-5199,Prefers email contact
+25,Ahmed,Rodriguez,ahmed.rodriguez@gmail.com,Acme Corp,+1-954-583-2009,
+26,Linda,Silva,linda.silva@company.com,Tyrell Corp,+1-269-666-1286,NULL
+27,Ahmed,Lee,ahmed.lee@outlook.com,Stark Industries,+1-609-382-2463,Requested demo
+28,John,Chen,john.chen@outlook.com,Initech,,N/A
+29,John,Nakamura,john.nakamura@yahoo.com,Soylent Corp,NaN,New lead
+30,Ahmed,Martinez,ahmed.martinez@company.com,NaN,None,Do not call
+31,David,Brown,david.brown@outlook.com,Wayne Enterprises,+1-370-783-5747,NULL
+32,Linda,Davis,linda.davis@outlook.com,Globex Inc,+1-982-176-4463,NULL
+33,Olga,Nguyen,olga.nguyen@outlook.com,Cyberdyne Systems,+1-672-464-7962,NULL
+34,Carlos,Lee,carlos.lee@outlook.com,None,NaN,NULL
+35,Raj,Müller,raj.müller@gmail.com,Globex Inc,+1-300-730-2274,N/A
+36,Michael,Kim,michael.kim@example.org,None,+1-465-775-4395,Renewal pending
+37,Elizabeth,Brown,elizabeth.brown@yahoo.com,N/A,+1-525-913-4958,Requested demo
+38,Wei,Miller,wei.miller@company.com,Umbrella Ltd,+1-553-753-3977,New lead
+39,David,Nakamura,david.nakamura@outlook.com,-,+1-515-262-9285,NULL
+40,Maria,Patel,maria.patel@gmail.com,NaN,+1-908-644-5080,NULL
+41,Michael,Kim,michael.kim@outlook.com,Stark Industries,+1-379-718-4427,NULL
+42,Jennifer,Brown,jennifer.brown@example.org,-,None,Requested demo
+43,Mary,Miller,mary.miller@example.org,Wayne Enterprises,+1-677-191-9011,Referred by partner
+44,Jennifer,Khan,,Initech,,Follow up next quarter
+45,James,Nguyen,N/A,Umbrella Ltd,N/A,N/A
+46,Maria,Miller,maria.miller@company.com,Acme Corp,+1-513-908-8040,
+47,Fatima,Johnson,fatima.johnson@gmail.com,None,+1-434-657-8966,Referred by partner
+48,David,Santos,NaN,Globex Inc,NaN,NULL
+49,Raj,Patel,NULL,Globex Inc,+1-588-834-5805,New lead
+50,John,Nakamura,john.nakamura@outlook.com,Tyrell Corp,+1-404-750-6354,NULL
+51,Wei,Chen,wei.chen@example.org,Tyrell Corp,,
+52,Ivan,Miller,ivan.miller@gmail.com,Tyrell Corp,+1-978-363-4188,
+53,Yuki,Nguyen,NaN,NaN,+1-570-964-4354,N/A
+54,Priya,Khan,priya.khan@example.org,NULL,+1-263-876-8708,Requested demo
+55,Wei,Silva,wei.silva@example.org,Globex Inc,+1-532-431-6236,Requested demo
+56,Ivan,Silva,ivan.silva@yahoo.com,-,NaN,New lead
+57,David,Davis,david.davis@company.com,Tyrell Corp,+1-360-405-6510,Requested demo
+58,Michael,Martinez,michael.martinez@gmail.com,Initech,+1-917-813-4490,NULL
+59,Elizabeth,Brown,,Tyrell Corp,+1-639-197-4626,NULL
+60,Michael,Rodriguez,michael.rodriguez@yahoo.com,NaN,,
+61,Michael,Ivanov,michael.ivanov@yahoo.com,Wayne Enterprises,+1-699-978-9338,Referred by partner
+62,Ivan,Nguyen,ivan.nguyen@yahoo.com,Stark Industries,+1-617-147-9576,NULL
+63,Robert,Williams,robert.williams@example.org,Wonka Industries,,NULL
+64,Yuki,Müller,yuki.müller@example.org,NULL,NULL,New lead
+65,Mary,Davis,mary.davis@yahoo.com,NULL,+1-382-479-7736,VIP customer
+66,Fatima,Patel,-,Umbrella Ltd,+1-981-719-4674,New lead
+67,Patricia,Lee,patricia.lee@example.org,NULL,+1-635-298-9827,N/A
+68,David,Santos,NULL,NULL,+1-620-741-9158,NULL
+69,Linda,Silva,linda.silva@yahoo.com,Soylent Corp,+1-418-446-3291,NULL
+70,Linda,Santos,linda.santos@gmail.com,Initech,+1-326-981-4464,New lead
+71,Robert,Ivanov,robert.ivanov@yahoo.com,Soylent Corp,NULL,NULL
+72,Ivan,Müller,ivan.müller@example.org,Globex Inc,+1-827-844-7018,Contract expires 2025-12
+73,Patricia,Nakamura,patricia.nakamura@outlook.com,Globex Inc,+1-504-651-8881,Renewal pending
+74,James,Silva,james.silva@outlook.com,NaN,+1-958-473-2540,Referred by partner
+75,Mary,Davis,mary.davis@yahoo.com,NaN,+1-278-897-1782,NULL
+76,Raj,Miller,raj.miller@gmail.com,Tyrell Corp,+1-233-347-5142,Contract expires 2025-12
+77,Mary,Müller,mary.müller@yahoo.com,Initech,NULL,NULL
+78,Michael,Patel,-,Umbrella Ltd,+1-692-701-8355,Prefers email contact
+79,Yuki,Davis,yuki.davis@outlook.com,Wayne Enterprises,NaN,N/A
+80,Olga,Kim,NULL,Soylent Corp,NaN,Follow up next quarter
+81,Mary,Davis,N/A,Initech,-,N/A
+82,Carlos,Brown,carlos.brown@example.org,N/A,+1-799-103-1517,Requested demo
+83,Patricia,Santos,patricia.santos@yahoo.com,Umbrella Ltd,+1-878-214-6650,NULL
+84,Elizabeth,Miller,elizabeth.miller@example.org,Cyberdyne Systems,+1-835-918-6452,NULL
+85,Raj,Brown,raj.brown@outlook.com,Acme Corp,+1-399-487-5079,Requested demo
+86,Ivan,Ivanov,ivan.ivanov@outlook.com,Soylent Corp,+1-611-514-7213,Referred by partner
+87,Mary,Brown,mary.brown@outlook.com,Cyberdyne Systems,None,
+88,Jennifer,Davis,jennifer.davis@yahoo.com,Wonka Industries,-,Attended webinar
+89,Mary,Smith,mary.smith@yahoo.com,Cyberdyne Systems,+1-858-610-9852,NULL
+90,Linda,Miller,None,Globex Inc,-,NULL
+91,Fatima,Nakamura,fatima.nakamura@example.org,Soylent Corp,+1-404-955-8504,Attended webinar
+92,Ivan,Davis,,Stark Industries,NaN,
+93,Michael,Kim,michael.kim@outlook.com,None,N/A,
+94,Wei,Martinez,wei.martinez@company.com,Acme Corp,+1-576-117-5722,NULL
+95,Elizabeth,Ivanov,elizabeth.ivanov@example.org,Acme Corp,N/A,NULL
+96,David,Nakamura,None,NaN,+1-200-127-2350,
+97,Ahmed,Nguyen,ahmed.nguyen@outlook.com,Wonka Industries,+1-596-973-7161,Prefers email contact
+98,John,Brown,john.brown@yahoo.com,Initech,+1-506-963-4033,
+99,Jennifer,Patel,jennifer.patel@company.com,Globex Inc,+1-564-887-9239,Renewal pending
+100,Mary,Smith,NaN,Acme Corp,+1-927-943-2016,
+101,Ivan,Patel,ivan.patel@outlook.com,N/A,N/A,
+102,Ivan,Williams,ivan.williams@company.com,N/A,+1-579-835-7291,N/A
+103,Jennifer,Martinez,NaN,N/A,+1-475-161-3477,Do not call
+104,Priya,Lee,priya.lee@example.org,Wonka Industries,+1-502-844-3512,NULL
+105,Raj,Chen,raj.chen@outlook.com,Initech,+1-733-310-8321,Requested demo
+106,Fatima,Chen,None,Cyberdyne Systems,+1-860-146-3446,Referred by partner
+107,Ivan,Johnson,NULL,Wonka Industries,+1-731-159-6431,NULL
+108,Ivan,Garcia,ivan.garcia@example.org,Cyberdyne Systems,+1-564-354-4601,
+109,Ahmed,Williams,NaN,Umbrella Ltd,+1-665-400-8056,NULL
+110,Michael,Smith,michael.smith@example.org,Acme Corp,+1-338-914-3631,NULL
+111,Raj,Lee,raj.lee@gmail.com,Acme Corp,+1-549-742-1570,
+112,Patricia,Patel,patricia.patel@yahoo.com,NULL,+1-271-972-5564,Renewal pending
+113,Ivan,Miller,NaN,Initech,N/A,New lead
+114,Olga,Davis,None,Umbrella Ltd,N/A,
+115,Robert,Kim,robert.kim@example.org,Umbrella Ltd,+1-623-785-4916,
+116,Raj,Kim,raj.kim@example.org,Cyberdyne Systems,None,NULL
+117,Linda,Khan,linda.khan@company.com,None,+1-312-443-2233,VIP customer
+118,Jennifer,Lee,jennifer.lee@gmail.com,Soylent Corp,+1-727-341-4647,NULL
+119,Ahmed,Smith,ahmed.smith@outlook.com,-,+1-799-630-3763,Requested demo
+120,Yuki,Williams,yuki.williams@example.org,Umbrella Ltd,+1-483-612-2484,Contract expires 2025-12
+121,Elizabeth,Müller,elizabeth.müller@outlook.com,Globex Inc,+1-923-614-2086,New lead
+122,Robert,Ivanov,None,Initech,+1-221-700-9277,VIP customer
+123,Mary,Nguyen,-,Cyberdyne Systems,+1-626-464-4887,NULL
+124,Fatima,Davis,fatima.davis@yahoo.com,Wayne Enterprises,+1-536-252-8566,N/A
+125,Ahmed,Lee,None,Umbrella Ltd,+1-477-465-6410,
+126,Raj,Davis,raj.davis@company.com,Wonka Industries,None,N/A
+127,Michael,Rodriguez,michael.rodriguez@gmail.com,NaN,+1-541-582-9123,Do not call
+128,Olga,Chen,olga.chen@company.com,Tyrell Corp,+1-610-854-1199,Referred by partner
+129,Mary,Miller,mary.miller@gmail.com,Wonka Industries,-,Requested demo
+130,Priya,Nguyen,priya.nguyen@gmail.com,Tyrell Corp,NULL,N/A
+131,Fatima,Patel,fatima.patel@example.org,Acme Corp,+1-974-843-9179,Renewal pending
+132,Carlos,Ivanov,carlos.ivanov@company.com,Soylent Corp,+1-527-278-9622,
+133,James,Silva,james.silva@gmail.com,Soylent Corp,+1-910-693-3922,N/A
+134,Raj,Chen,raj.chen@example.org,None,+1-962-564-8492,Referred by partner
+135,Priya,Martinez,priya.martinez@outlook.com,None,+1-600-903-3050,N/A
+136,Elizabeth,Khan,-,,+1-949-342-5682,Follow up next quarter
+137,Robert,Miller,robert.miller@example.org,Tyrell Corp,None,Referred by partner
+138,Linda,Nakamura,linda.nakamura@company.com,Acme Corp,NaN,Renewal pending
+139,Wei,Garcia,-,-,+1-249-181-7334,NULL
+140,Fatima,Johnson,fatima.johnson@company.com,Wonka Industries,,Do not call
+141,Carlos,Martinez,NaN,Initech,,
+142,Linda,Davis,linda.davis@example.org,Wonka Industries,+1-223-664-3452,Do not call
+143,David,Müller,david.müller@outlook.com,Initech,+1-571-570-2735,
+144,Patricia,Lee,patricia.lee@gmail.com,Acme Corp,N/A,NULL
+145,Maria,Kim,maria.kim@gmail.com,Tyrell Corp,+1-663-144-9112,
+146,Ivan,Martinez,ivan.martinez@company.com,Stark Industries,+1-685-990-2216,Referred by partner
+147,Patricia,Martinez,patricia.martinez@gmail.com,Cyberdyne Systems,+1-300-692-7345,N/A
+148,Robert,Rodriguez,NULL,Umbrella Ltd,,N/A
+149,Olga,Nakamura,olga.nakamura@company.com,Umbrella Ltd,+1-709-232-6534,Contract expires 2025-12
+150,Patricia,Kim,patricia.kim@company.com,Cyberdyne Systems,+1-815-987-4334,NULL
