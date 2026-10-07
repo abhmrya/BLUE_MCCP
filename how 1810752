@@ -1,0 +1,32 @@
+* [33m47f709f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m feat: add application file
+* [33m24d1677[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m doker learn
+* [33m2bda261[m create a docker and test
+* [33m1810752[m fix Python CI tests
+* [33m4b2c790[m ci workflows added
+*   [33m2cd6331[m Merge branch 'main' of https://github.com/abhmrya/BLUE_MCCP
+[32m|[m[33m\[m  
+[32m|[m *   [33m16989eb[m Merge pull request #1 from abhmrya/dev
+[32m|[m [34m|[m[35m\[m  
+* [34m|[m [35m|[m [33m0fdd24a[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m unit test case updated
+* [34m|[m [35m|[m [33m0bc40c5[m cherry-pich and data formating
+[35m|[m [34m|[m[35m/[m  
+[35m|[m[35m/[m[34m|[m   
+* [34m|[m [33m0c5c338[m confilict resolve
+* [34m|[m [33m226346a[m same line change
+[34m|[m[34m/[m  
+[34m|[m * [33m6738888[m[33m ([m[1;35mrefs/stash[m[33m)[m WIP on dev: 39800c2 confilict resolve
+[34m|[m[34m/[m[1;31m|[m 
+[34m|[m * [33m1b8bb0a[m index on dev: 39800c2 confilict resolve
+[34m|[m[34m/[m  
+*   [33m39800c2[m confilict resolve
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mc645e7f[m  test file modified
+* [1;33m|[m [33m9c733f0[m test file modified
+* [1;33m|[m [33m18850b2[m  test file modified
+[1;33m|[m[1;33m/[m  
+*   [33mc84a3e3[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;33mtag: [m[1;33mv0.0.1[m[33m)[m Merge branch 'main' of https://github.com/abhmrya/BLUE_MCCP
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33m309d7f6[m  lession 5 added and cmpose.yaml
+* [1;35m|[m [33mc011fac[m  lession 5 added and cmpose.yaml
+[1;35m|[m[1;35m/[m  
+* [33m1377150[m Initial commit
