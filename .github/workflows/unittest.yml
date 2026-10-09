@@ -1,3 +1,4 @@
+
 name: Python CI
 
 on:
@@ -26,8 +27,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pytest pandas
+          python -m pip install pytest pandas
+
+      - name: Run application with logging
+        run: |
+          python src/app.py
 
       - name: Run tests
         run: |
-          pytest tests
+          pytest -v tests
