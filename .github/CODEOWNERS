@@ -1,3 +1,18 @@
-# Default owner for all file
-* @abhmrya11111
+# Default reviewer
+* @abhmrya
 
+# API ingestion
+/src/ingestion/ @abhmrya
+
+# Data formatting and transformations
+/src/formatting/ @abhmrya
+
+# CI/CD workflows
+/.github/workflows/ @abhmrya
+
+# Docker
+/Dockerfile @abhmrya
+/docker-compose.yml @abhmrya
+
+# Project documentation
+/README.md @abhmrya
