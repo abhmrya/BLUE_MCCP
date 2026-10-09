@@ -1,22 +1,3 @@
 # Default owner for all files
-#  * @abhmrya
+#  * @abhmrya11111
 
-# Python backend files
-*.py @backend-team
-
-# Application directory
-/app/ @backend-team
-
-# Tests
-/tests/ @qa-team
-
-# Docker and CI/CD
-Dockerfile @devops-team
-/docker-compose.yml @devops-team
-/.github/workflows/ @devops-team
-
-# SQL files
-*.sql @database-team
-
-# Documentation
-*.md @docs-team
