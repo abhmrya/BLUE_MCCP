@@ -1,0 +1,4 @@
+2026-10-09 14:30:06,338 | DEBUG | data_pipeline | Starting API extraction | 7216
+2026-10-09 14:30:06,338 | INFO | data_pipeline | Extracted 20 products | 7216
+2026-10-09 14:30:06,338 | WARNING | data_pipeline | API response is slow | 7216
+2026-10-09 14:30:06,339 | ERROR | data_pipeline | Database loading failed | 7216

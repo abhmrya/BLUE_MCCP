@@ -21,11 +21,11 @@ file_handler.setLevel(logging.DEBUG)
 
 # 4. Create formatters
 console_format = logging.Formatter(
-    "%(levelname)s | %(message)s"
+    "%(levelname)s | %(message)s | %(thread)d"
 )
 
 file_format = logging.Formatter(
-    "%(asctime)s | %(levelname)s | %(name)s | %(message)s"
+    "%(asctime)s | %(levelname)s | %(name)s | %(message)s | %(thread)d"
 )
 
 # 5. Attach formatters to handlers
