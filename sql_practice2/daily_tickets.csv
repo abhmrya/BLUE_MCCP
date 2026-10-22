@@ -1,0 +1,6 @@
+ticket_id,category,status
+T001,hardware,open
+T002,network,closed
+T003,software,open
+T002,network,closed
+T004,security,in_progress
