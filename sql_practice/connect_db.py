@@ -15,6 +15,7 @@ print("connected successfully!.")
 # print(tables)
 
 tables = cursor.execute("""
+    EXPLAIN QUERY PLAN
     SELECT name
     FROM sqlite_master
     WHERE type = 'table'
